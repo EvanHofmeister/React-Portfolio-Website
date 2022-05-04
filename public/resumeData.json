@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Evan Hofmeister",
+    "occupation":"Data Scientist",
+    "description":"I like to code things from scratch, and enjoy solving problems with data",
+    "image":"Evan_Profile_Pic.jpg",
+    "contactmessage":"If you like my work and would like to get in touch, just send me a direct message or contact me through social media.",
+    "email": "evan.hofmeister@gmail.com",
+    "phone": "",
+    "address":{
+      "city":"Minneapolis",
+      "state":"Minnesota",
+      "zip": "55401"
+    },
+    "website": "https://www.ehofmeister.com/",
+    "resumedownload":"https://drive.google.com/",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/evanhofmeister/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/evanhofmeister",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:evan.hofmeister@gmail.com?subject=The%20subject%20of%20the%20mail",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  "resume":{
+    "education":[
+      {
+        "school":"University of Washington",
+        "degree":"MS - Computational Finance and Risk Management",
+        "graduated":"Dec 18",
+        "description":"Studied Applied Mathematics."
+      },
+      {
+        "school":"University of Wisconsin",
+        "degree":"BS Mathematical Economics",
+        "graduated":"May 16",
+        "description":"Studied Economics and Mathematics."
+      }
+    ],
+    "work":[
+      {
+        "company": "Temp",
+        "title": "Temp",
+        "years": "Temp",
+        "description": "Temp"
+      }
+    ]
+  }
+}
