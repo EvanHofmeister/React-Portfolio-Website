@@ -24,9 +24,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>I studied Electronics and Communication, and during my studies I got in contact with the basic concepts of programming. Since then I've always wanted to become a developer. Fortunately I have discovered Microverse and joined without any hesitation.<br /><br />
-
-            I am passionate about ideating, conceptualizing and producing consumer-centric as well as technology-enabled products from level zero. Open for exploring exciting full-stack development opportunities in startups as well as companies with scale.</p>
+            <p>ABOUT ME DESCRIPTION</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
