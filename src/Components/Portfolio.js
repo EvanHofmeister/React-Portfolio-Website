@@ -174,7 +174,7 @@ class Portfolio extends Component {
                 </article>
               </div>
               <ul className="actions">
-                <li className="wide-button"><a href="https://github.com/rammazzoti2000" className="button portfolio-button" target="_blank" rel="noopener noreferrer">Full Portfolio</a></li>
+                <li className="wide-button"><a href="https://github.com/EvanHofmeister" className="button portfolio-button" target="_blank" rel="noopener noreferrer">Full Portfolio</a></li>
               </ul>
             </div>
           </div>
