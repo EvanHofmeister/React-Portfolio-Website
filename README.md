@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 *** Thanks for checking out this README Template. If you have a suggestion that would
 *** make this better, please fork the repo and create a pull request or simply open
@@ -147,3 +148,6 @@ Give a :star: if you like this project!
 ## 📝 License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
+=======
+Personal portfolio built with React JS highlighting education, work experience, relevant projects, and social media handles.
+>>>>>>> Initial commit
