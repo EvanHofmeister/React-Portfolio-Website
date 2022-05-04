@@ -18,7 +18,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://final-capstonejx.herokuapp.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://dashboard.heroku.com/apps" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                         <li><a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
@@ -39,7 +39,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://pic-somejsx.herokuapp.com/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://dashboard.heroku.com/apps" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                         <li><a href="https://github.com/EvanHofmeister" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
