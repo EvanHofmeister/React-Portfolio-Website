@@ -34,7 +34,7 @@ class Portfolio extends Component {
                   <a href="https://github.com/EvanHofmeister" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Lidar_Project_img.JPG" alt="pic-some" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
-                      <h3>PicSome WebApp</h3>
+                      <h3>Lidar ArcGis using Big Data</h3>
                       <p>Created reliefs of the NYC metro from Lidar data using computer vision, machine learning and ArcGis tools</p>
                     </div>
                     <ul className="actions">
