@@ -14,7 +14,7 @@ class Portfolio extends Component {
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Cryptocurrency Market Tracker Dashboard</h3>
-                      <p>Application built to track trends in cryptocurrency prices, derivatives, exchanges and indexes.</p>
+                      <p>Application built to track trends in cryptocurrency prices, derivatives, exchanges, and indexes.</p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
@@ -35,7 +35,7 @@ class Portfolio extends Component {
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Lidar ArcGis using Big Data</h3>
-                      <p>Created reliefs of the NYC metro from Lidar data using computer vision, machine learning and ArcGis tools</p>
+                      <p>Created reliefs of the NYC metro from Lidar data using computer vision, machine learning, and ArcGis tools.</p>
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">

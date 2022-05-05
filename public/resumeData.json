@@ -125,23 +125,38 @@
     "education":[
       {
         "school":"University of Washington",
-        "degree":"MS - Computational Finance and Risk Management",
+        "degree":"MS - Applied Math - Computational Finance and Risk Management",
         "graduated":"Dec 18",
-        "description":"Studied Applied Mathematics."
+        "description":""
       },
       {
         "school":"University of Wisconsin",
         "degree":"BS Mathematical Economics",
         "graduated":"May 16",
-        "description":"Studied Economics and Mathematics."
+        "description":""
       }
     ],
     "work":[
       {
-        "company": "Temp",
-        "title": "Temp",
-        "years": "Temp",
-        "description": "Temp"
+        "company": "CIT Bank (Acquired by First Citizens Bank)",
+        "location": "Los Angeles, CA",
+        "title": "Quantitative Model Analyst, AVP ",
+        "years": "Jan 2019 – Present",
+        "description": ""
+      },
+      {
+        "company": "U.S. Bank",
+        "location": "Minneapolis, MN",
+        "title": "Graduate Intern, Quantitative Model Development",
+        "years": "Jun 2018 – Aug 2018",
+        "description": ""
+      },
+      {
+        "company": "State of Wisconsin Investment Board",
+        "location": "Madison, WI",
+        "title": "Analyst, Investment Operations",
+        "years": "Oct 2016 – Jul 2017",
+        "description": ""
       }
     ]
   }

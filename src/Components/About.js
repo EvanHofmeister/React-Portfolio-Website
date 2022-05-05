@@ -24,7 +24,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>ABOUT ME DESCRIPTION</p>
+            <p>Experienced data analyst with MS in Applied Mathematics with expertise using predictive analytics, machine learning, and statistical models in the finance field. Strong interest in expanding knowledge of machine learning, modeling, and big data analytics in other fields. Looking for a data scientist position that provides learning and growth opportunities in a team-based work environment.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
