@@ -10,7 +10,7 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Crypto_Dashboard_img.JPG" alt="final-capstone" /></a>
+                  <a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Crypto_Dashboard_Thumb.JPG" alt="final-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Cryptocurrency Market Tracker Dashboard</h3>
@@ -18,7 +18,7 @@ class Portfolio extends Component {
                     </div>
                     <ul className="actions">
                       <div className="actions-wrapper">
-                        <li><a href="https://dashboard.heroku.com/apps" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                        <li><a href="https://ehcryptocurrencytracker.netlify.app/" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
                         <li><a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
                       </div>
                       <div className="languages">
