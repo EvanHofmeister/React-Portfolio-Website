@@ -10,7 +10,7 @@ class Portfolio extends Component {
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
-                  <a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Crypto_Dashboard_Thumb.JPG" alt="final-capstone" /></a>
+                  <a href="https://github.com/EvanHofmeister/cryptocurrency-tracker-app" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Crypto_Dashboard_Thumb_Crop.JPG" alt="final-capstone" /></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>Cryptocurrency Market Tracker Dashboard</h3>
