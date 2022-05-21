@@ -28,6 +28,29 @@ class Portfolio extends Component {
                     </ul>
                   </div>
                 </article>
+
+                <div className="article-wrapper">
+                  <article className="col-12 col-12-xsmall work-item">
+                    <a href="https://github.com/EvanHofmeister/PySpark-NLP-Article-Classification-Model/blob/main/PySpark-NLP-Article-Classification-Model.ipynb" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Pyspark_NLP_Notebook_crop.png" alt="final-capstone" /></a>
+                    <div className="art-description">
+                      <div className="text-wrapper">
+                        <h3>NLP Article Classification Models With PySpark</h3>
+                        <p>Comparison between performance of Logistic Regression, Naive Bayes, Decision Trees and Random Forest models for multi-classification of text based articles using PySpark.</p>
+                      </div>
+                      <ul className="actions">
+                        <div className="actions-wrapper">
+                          <li><a href="https://github.com/EvanHofmeister/PySpark-NLP-Article-Classification-Model/blob/main/PySpark-NLP-Article-Classification-Model.ipynb" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                          <li><a href="https://github.com/EvanHofmeister/PySpark-NLP-Article-Classification-Model/blob/main/PySpark-NLP-Article-Classification-Model.ipynb" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        </div>
+                        <div className="languages">
+                          <i className="devicon-python-plain technology"></i>
+                          <i className="devicon-jupyter-plain-wordmark technology"></i>
+                        </div>
+                      </ul>
+                    </div>
+                  </article>
+                </div>
+
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
@@ -48,6 +71,8 @@ class Portfolio extends Component {
                   </div>
                 </article>
               </div>
+
+
 
               <ul className="actions">
                 <li className="wide-button"><a href="https://github.com/EvanHofmeister" className="button portfolio-button" target="_blank" rel="noopener noreferrer">Full Portfolio</a></li>
