@@ -74,6 +74,7 @@ class Portfolio extends Component {
 
 
 
+
               <ul className="actions">
                 <li className="wide-button"><a href="https://github.com/EvanHofmeister" className="button portfolio-button" target="_blank" rel="noopener noreferrer">Full Portfolio</a></li>
               </ul>
