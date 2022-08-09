@@ -57,7 +57,7 @@ class Portfolio extends Component {
                     <div className="art-description">
                       <div className="text-wrapper">
                         <h3>FRED and US Treasury Economic Data Dashboard</h3>
-                        <p>Dashboard built to fetch economic data from the Federal Reserve and US Treasury Department Rest APIs. Data is plotted using the Plotly.js and D3.js libraries (Historic Yield Curve shown to the left). </p>
+                        <p>Dashboard built to fetch economic data from the Federal Reserve and US Treasury Department Rest APIs. Data is plotted using the Plotly.js and D3.js libraries (Yield Curve shown to the left). </p>
                       </div>
                       <ul className="actions">
                         <div className="actions-wrapper">
