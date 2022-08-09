@@ -51,6 +51,28 @@ class Portfolio extends Component {
                   </article>
                 </div>
 
+                <div className="article-wrapper">
+                  <article className="col-12 col-12-xsmall work-item">
+                    <a href="https://github.com/EvanHofmeister" className="image fit thumb" target="_blank" rel="noopener noreferrer"><img src="images/thumbs/Yield_Curve_standard_size.png" alt="final-capstone" /></a>
+                    <div className="art-description">
+                      <div className="text-wrapper">
+                        <h3>FRED and US Treasury Economic Data Dashboard</h3>
+                        <p>Dashboard built to fetch economic data from the Federal Reserve and US Treasury Department Rest APIs. Data is plotted using the Plotly.js and D3.js libraries (Historic Yield Curve shown to the left). </p>
+                      </div>
+                      <ul className="actions">
+                        <div className="actions-wrapper">
+                          <li><a href="https://github.com/EvanHofmeister" className="button project-button" target="_blank" rel="noopener noreferrer">View Demo</a></li>
+                          <li><a href="https://github.com/EvanHofmeister" className="button project-button brands" target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View Source</a></li>
+                        </div>
+                        <div className="languages">
+                          <i className="devicon-javascript-plain technology"></i>
+                          <i className="devicon-react-plain-wordmark technology"></i>
+                        </div>
+                      </ul>
+                    </div>
+                  </article>
+                </div>
+
               </div>
               <div className="article-wrapper">
                 <article className="col-12 col-12-xsmall work-item">
