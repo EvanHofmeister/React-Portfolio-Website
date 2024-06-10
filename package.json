@@ -7,7 +7,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-ga": "^2.7.0",
-    "react-scripts": "4.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,5 +26,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Personal website built with React JS highlighting education, work experience, relevant projects, and social media handles.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
