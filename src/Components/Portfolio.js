@@ -124,9 +124,7 @@ class Portfolio extends Component {
                         </div>
                         <div className="languages">
                           <i className="devicon-python-plain technology"></i>
-                          <i className="devicon-amazonwebservices-plain-wordmark technology"></i>
-                          <i className="devicon-blender-original technology"></i>
-                          <i className="devicon-photoshop-plain technology"></i>
+                          <i className="devicon-googlecloud-plain-wordmark technology"></i>
                           <i className="devicon-react-plain technology"></i>
                         </div>
                       </div>
@@ -147,18 +145,16 @@ class Portfolio extends Component {
                     <ul className="actions">
                       <div className="actions-wrapper">
                         <div className="buttons">
-                          <li><a href="https://ehgeoinformatics.netlify.app/" className="button project-button"
+                          <li><a href="https://github.com/EvanHofmeister/Housing-Wealth-Pipeline" className="button project-button"
                                  target="_blank" rel="noopener noreferrer">View Demo</a></li>
-                          <li><a href="https://ehgeoinformatics.netlify.app/" className="button project-button brands"
+                          <li><a href="https://lookerstudio.google.com/reporting/94676c29-0680-4b5f-b5cf-7398334a1cb8" className="button project-button brands"
                                  target="_blank" rel="noopener noreferrer"><i className="fa fa-github icon"></i>View
                             Source</a></li>
                         </div>
                         <div className="languages">
                           <i className="devicon-python-plain technology"></i>
                           <i className="devicon-amazonwebservices-plain-wordmark technology"></i>
-                          <i className="devicon-blender-original technology"></i>
-                          <i className="devicon-photoshop-plain technology"></i>
-                          <i className="devicon-react-plain technology"></i>
+                          <i className="devicon-terraform-plain-wordmark technology"></i>
                         </div>
                       </div>
                     </ul>
