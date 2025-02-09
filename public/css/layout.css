@@ -311,10 +311,11 @@ ul#nav li.current a { color: #F06000; }
    list-style: none;
 }
 
+
 section .skills {
    font-size: 8rem;
    display: grid;
-   grid-template-columns: repeat(6, 0fr);
+   grid-template-columns: repeat(8, 0fr);
    text-align: center;
    grid-row-gap: 32px;
    justify-content: center;	
@@ -681,13 +682,29 @@ section .skills .technology:hover {
  ul.actions .actions-wrapper {
    display: flex;
    flex-direction: row;
-   align-items: baseline;
+   align-items: center; /* Center align items on the same Y-axis */
    align-self: baseline;
    width: 100%;
    margin-top: 1rem;
+     gap: 3rem; /* Space between buttons and icons */
  }
+
+ul.actions .buttons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0rem; /* Space between buttons */
+    flex-shrink: 0; /* Prevent buttons from shrinking */
+    margin-top: 1rem;
+
+}
+
  ul.actions .languages {
-   display: inline-flex;
+   display: flex;
+     flex-direction: row; /* Ensures icons sit horizontally */
+     flex-wrap: wrap; /* Allow wrapping */
+     gap: .5rem; /* Space between icons */
+     margin-top: 1rem;
  }
  ul.actions .languages .technology {
    font-size: 4.5rem;
@@ -695,7 +712,8 @@ section .skills .technology:hover {
    cursor: pointer;
    padding: 3px;
    border-radius: 5px;
-   margin-left: 16px;
+     /* margin-left: 16px; */
+       margin-right: .25rem; /* Ensure 1rem space between icons */
  }
  ul.actions .languages .technology:hover {
    background-color: #f06000;

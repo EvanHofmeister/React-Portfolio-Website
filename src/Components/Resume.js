@@ -76,15 +76,21 @@ class Resume extends Component {
                 <i className="devicon-python-plain-wordmark colored technology"></i>
                 <i className="devicon-rstudio-plain colored technology"></i>
                 <i className="devicon-heroku-plain-wordmark technology"></i>
-              <i className="devicon-git-plain-wordmark colored technology"></i>
+                <i className="devicon-git-plain-wordmark colored technology"></i>
                 <i className="devicon-latex-original technology"></i>
                 <i className="devicon-javascript-plain colored technology"></i>
-              <i className="devicon-postgresql-plain-wordmark  technology"></i>
-              <i className="devicon-react-plain-wordmark colored technology"></i>
-              <i className="devicon-docker-plain-wordmark technology"></i>
-              <i className="devicon-mysql-plain-wordmark colored technology"></i>
-              <i className="devicon-github-original technology"></i>
-              <i className="devicon-amazonwebservices-plain-wordmark colored technology"></i>
+                <i className="devicon-postgresql-plain-wordmark  technology"></i>
+                <i className="devicon-react-plain-wordmark colored technology"></i>
+                <i className="devicon-docker-plain-wordmark technology"></i>
+                <i className="devicon-mysql-plain-wordmark colored technology"></i>
+                <i className="devicon-github-original technology"></i>
+                <i className="devicon-amazonwebservices-plain-wordmark colored technology"></i>
+                <i className="devicon-apache-plain-wordmark colored technology"></i>
+                <i className="devicon-googlecloud-plain-wordmark colored technology"></i>
+                <i className="devicon-bash-plain colored technology"></i>
+                <i className="devicon-arduino-plain-wordmark colored technology"></i>
+
+
             </div>
           </section>
 				</div>
