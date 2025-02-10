@@ -138,10 +138,17 @@
     ],
     "work":[
       {
-        "company": "CIT Bank (Acquired by First Citizens Bank)",
+        "company": "First Citizens Bank",
         "location": "Los Angeles, CA",
-        "title": "Quantitative Modeling AVP ",
-        "years": "Jan 2019 – Present",
+        "title": "Manager, Treasury - Quantitative Liquidity",
+        "years": "Jan 2022 – Present",
+        "description": ""
+      },
+      {
+        "company": "CIT Bank",
+        "location": "Los Angeles, CA",
+        "title": "Senior Data Analyst - Asset Liability Management",
+        "years": "Jan 2019 – Dec 2021",
         "description": ""
       },
       {
@@ -156,6 +163,13 @@
         "location": "Madison, WI",
         "title": "Analyst, Investment Operations",
         "years": "Oct 2016 – Jul 2017",
+        "description": ""
+      },
+      {
+        "company": "State of Wisconsin Controller's Office",
+        "location": "Madison, WI",
+        "title": "Data Engineer (Part of a Cross-Functional Rotational Program)",
+        "years": "May 2016 – Oct 2016",
         "description": ""
       }
     ]
