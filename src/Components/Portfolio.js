@@ -46,7 +46,7 @@ class Portfolio extends Component {
                 <article className="col-12 col-12-xsmall work-item">
                   <a href="https://github.com/EvanHofmeister/animal-model-rfid-tracking/blob/main/README.md"
                      className="image fit thumb" target="_blank" rel="noopener noreferrer"><img
-                      src="images/thumbs/RFID_Animal_Research_Thumbnail.png"/></a>
+                      src="images/thumbs/RFID_Tracking_Image_Crop.png"/></a>
                   <div className="art-description">
                     <div className="text-wrapper">
                       <h3>RFID Tracking for Animal Modeling Research</h3>
