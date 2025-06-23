@@ -7,6 +7,7 @@ import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
+import FieldNotes from './Components/FieldNotes';
 
 import $ from 'jquery';
 import './App.css';
@@ -50,6 +51,7 @@ class App extends Component {
         <About data={this.state.resumeData.main} />
         <Resume data={this.state.resumeData.resume} />
         <Portfolio data={this.state.resumeData.portfolio} />
+        <FieldNotes data={this.state.resumeData.fieldnotes} />
         <Contact data={this.state.resumeData.main} />
         <Footer data={this.state.resumeData.main} />
       </div>

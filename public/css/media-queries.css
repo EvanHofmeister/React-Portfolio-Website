@@ -40,6 +40,11 @@
       width: 80%;
       margin: auto;
    }
+
+   #fieldnotes-wrapper {
+      width: 80%;
+      margin: auto;
+   }
 }
 
 /* screenwidth less than 900px
@@ -300,6 +305,13 @@
       width: 88%;
    }
 
+   /* FieldNotes Section
+   /* ----------------------------------------------------------------- */
+   #fieldnotes-wrapper .columns { margin-bottom: 40px; }
+   .popup-modal {	max-width: 85%; }
+   .projects {
+      width: 88%;
+   }
 
    /* Testimonials Section
    ----------------------------------------------------------------------- */
@@ -412,6 +424,10 @@
   .portfolio-button {
      width: 100%;
   }
+
+   .fieldnotes-button {
+      width: 100%;
+   }
 }
 
 /* mobile narrow
@@ -445,6 +461,10 @@
    }
 
    #portfolio-wrapper {
+      width: 95%;
+   }
+
+   #fieldnotes-wrapper {
       width: 95%;
    }
 
